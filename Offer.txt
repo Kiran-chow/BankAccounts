@@ -1,0 +1,4 @@
+ACCOUNTNUMBER        OFFER
+1001                  10%
+1003                  20%
+1009                  30%
